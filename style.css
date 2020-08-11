@@ -1,13 +1,14 @@
 
 body {
-
-
 font-family: 'Source Sans Pro', sans-serif;	
+color: red;
 }
 
 
 
 .title {
+font-family: 'Source Sans Pro', sans-serif;	
+
 	left: 40vw;
 	top: 40vh;
 }
